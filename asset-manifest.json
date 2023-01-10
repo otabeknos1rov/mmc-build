@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0b5b37e9.css",
-    "main.js": "/static/js/main.ec67a91f.js",
+    "main.js": "/static/js/main.5e702ed7.js",
     "static/js/787.cf3438b4.chunk.js": "/static/js/787.cf3438b4.chunk.js",
     "static/media/scroll.ico": "/static/media/scroll.59d46ef82d3f6adb3a81.ico",
     "static/media/arbitrum.png": "/static/media/arbitrum.642ebcbd919529d9a1ec.png",
@@ -14,16 +14,6 @@
     "static/media/poppins-devanagari-300-normal.woff2": "/static/media/poppins-devanagari-300-normal.8236e953c7367362a568.woff2",
     "static/media/poppins-devanagari-700-normal.woff2": "/static/media/poppins-devanagari-700-normal.349ed9fa39221b45ae9a.woff2",
     "static/media/poppins-devanagari-500-normal.woff2": "/static/media/poppins-devanagari-500-normal.f43b6ebf46ee6fba0555.woff2",
-    "static/media/person_hover9.svg": "/static/media/person_hover9.29f0da108a5225c203a53bf7a0068424.svg",
-    "static/media/person_hover3.svg": "/static/media/person_hover3.4201b4a5eeeddb81ce880bf14a1c55e3.svg",
-    "static/media/person_hover2.svg": "/static/media/person_hover2.b0abc8ab55fcc178e92da26620f57294.svg",
-    "static/media/person_hover5.svg": "/static/media/person_hover5.25ad89d9dd23f06456dd40aebdf6ed51.svg",
-    "static/media/person_hover4.svg": "/static/media/person_hover4.3b9b8b5210191ea39ac781deb3dedfe5.svg",
-    "static/media/person_hover8.svg": "/static/media/person_hover8.75937a9fca6469b3f4b8c849608d0b19.svg",
-    "static/media/person3.svg": "/static/media/person3.854a1215503b2a9a9e71f69b062865e9.svg",
-    "static/media/person5.svg": "/static/media/person5.cce6ec07789a5e654ae9af7507411373.svg",
-    "static/media/person2.svg": "/static/media/person2.ada55bcdd5ba6b1b1829db5948976da2.svg",
-    "static/media/person4.svg": "/static/media/person4.0142c65b22579cf3ac0bf05ebd379703.svg",
     "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
     "static/media/poppins-latin-300-normal.woff2": "/static/media/poppins-latin-300-normal.39576fe9df8a22cc1bcc.woff2",
     "static/media/poppins-latin-700-normal.woff2": "/static/media/poppins-latin-700-normal.d86662fe776dae29ea78.woff2",
@@ -46,11 +36,11 @@
     "static/media/onbuff.svg": "/static/media/onbuff.a417979555bce46a45e6659a661cba51.svg",
     "static/media/auction.svg": "/static/media/auction.013db86fc79d25f097d2b72d691d0b48.svg",
     "main.0b5b37e9.css.map": "/static/css/main.0b5b37e9.css.map",
-    "main.ec67a91f.js.map": "/static/js/main.ec67a91f.js.map",
+    "main.5e702ed7.js.map": "/static/js/main.5e702ed7.js.map",
     "787.cf3438b4.chunk.js.map": "/static/js/787.cf3438b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b5b37e9.css",
-    "static/js/main.ec67a91f.js"
+    "static/js/main.5e702ed7.js"
   ]
 }
